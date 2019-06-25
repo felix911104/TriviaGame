@@ -25,12 +25,12 @@ var QuestionsArray =[{
     correctOne: "50"
 },
 {   questions:"What year did steve jobs pass away?",
-    answers:["2001", "2005", "2009", "20011"],
+    answers:["2001", "2005", "2009", "2011"],
         correctOne: "2011"},
     
 {    questions:"How many student in this class?",
      answers:["31", "32", "33", "34"],
-     correctOne: "34"},
+     correctOne: "32"},
 
 {   questions:"What color of the sun light appear to our eyes?",
     answers:["white", "clear", "rainbow", "yellow"],
